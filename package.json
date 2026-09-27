@@ -1,0 +1,14 @@
+{
+  "name": "roxy-store-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "grammy": "^1.35.0",
+    "qrcode": "^1.5.4"
+  }
+}
